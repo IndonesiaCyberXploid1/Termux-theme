@@ -19,7 +19,7 @@ $ pkg install git
 
 ## download
 ```python
-$ git clone https://github.com/Aldi098/Termux-theme
+$ git clone https://github.com/IndonesiaCyberXploid1/Termux-theme
 $ cd Termux-theme
 $ python2 Tampilan.py
 ```
