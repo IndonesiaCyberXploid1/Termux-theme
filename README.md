@@ -39,5 +39,5 @@ $ python2 Tampilan.py
 <b>• [Youtube](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)</b>
 </br>
 ## WhatsApp
-<b>• [WhatsApp](https://api.whatsapp.com/send?phone=+62852-9500-4078&text=Assalamualaikum)</b>
+<b>• [WhatsApp](https://api.whatsapp.com/send?phone=+62812-1229-9176&text=Assalamualaikum)</b>
 <br>
