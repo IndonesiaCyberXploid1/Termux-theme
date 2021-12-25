@@ -12,7 +12,7 @@
 ## install
 ```python
 $ pkg install python2
-$ pip install bash
+$ pip2 install bash
 $ pkg install nano
 $ pkg install git
 ```
